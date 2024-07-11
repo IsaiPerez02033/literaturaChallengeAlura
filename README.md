@@ -42,15 +42,5 @@ PostgreSQL Driver
 API de Gutendex
 Utilizaremos la API de Gutendex, que es parte del Proyecto Gutenberg, una biblioteca digital con más de 70 mil libros gratuitos. Lean la documentación de la API para entender cómo implementar los métodos necesarios para el proyecto.
 
-Organización del Trabajo
-Utilizaremos un tablero de Trello para organizar nuestras tareas. En el tablero encontrarán:
-
-Descripción del desafío y contenido adicional: Información y recursos útiles.
-Columna de Backlog: Detalle de cada tarea desde la creación del proyecto en GitHub hasta funcionalidades adicionales.
-Recursos y Comunidad
-Para resolver dudas, ayudar a compañeros y compartir resultados, utilicen el servidor en Discord. La colaboración y el apoyo mutuo son esenciales para el éxito de este desafío.
-
-¡Con dedicación y esfuerzo, lograrán construir un proyecto increíble! ¡Nos vemos y buena suerte!
-
 Isai Aram Perez Flores
 Alumno de Alura Latam
